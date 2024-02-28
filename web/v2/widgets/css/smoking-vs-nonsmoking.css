@@ -1,0 +1,8 @@
+#smoking-vs-nonsmoking {margin: 30px auto;}
+#smoking-vs-nonsmoking .title {}
+#smoking-vs-nonsmoking .subtitle {}
+#smoking-vs-nonsmoking .chart-legend {list-style: none; margin: 15px 0 0 60px; padding: 0;}
+#smoking-vs-nonsmoking .chart-legend li {position: relative;}
+#smoking-vs-nonsmoking .chart-legend li:before {content: ""; display: inline-block; width: 16px; height: 16px; margin-right: 15px;}
+#smoking-vs-nonsmoking .smoking:before {background-color: #859a9c;}
+#smoking-vs-nonsmoking .nonsmoking:before {background-color: #6d91c0;}
